@@ -1,0 +1,14 @@
+layout_spectrum: 0.2234043
+color:
+  saturation: 0.8425532
+  brandStrength: 0.9198947
+  lightness: 0.2765957
+  rhythmicContrast: 0.9872341
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.2680851
+name: Rto
